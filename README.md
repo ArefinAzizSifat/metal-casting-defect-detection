@@ -49,4 +49,4 @@ The CNN model was built from scratch with the following structure:
 
 ### 🔹 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/metal-casting-defect-detection.git
+git clone https://github.com/ArefinAzizSifat/metal-casting-defect-detection.git
